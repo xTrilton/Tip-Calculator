@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="rateservice">Please rate the service to add a tip</string>
+    <string name="totalcharge">Your total cost is:</string>
+
+</resources>
